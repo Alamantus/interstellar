@@ -1,0 +1,29 @@
+{
+  "name": "interstellar",
+  "version": "0.0.0",
+  "description": "An aggregateable list for bookmarking Git projects from anywhere on the web",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alamantus/interstellar.git"
+  },
+  "keywords": [
+    "git",
+    "star",
+    "stargazing",
+    "bookmarks",
+    "github",
+    "bitbucket"
+  ],
+  "author": "Robbie Antenesse <dev@alamantus.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alamantus/interstellar/issues"
+  },
+  "homepage": "https://github.com/Alamantus/interstellar#readme"
+}
